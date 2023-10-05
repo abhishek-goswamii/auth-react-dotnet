@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "X77SgvyPdEbrOndnSeyTLNjmMcDWrtMzTpi4G+GoMIc=",
+  "Source": "bitcotapi",
+  "BasePath": "_content/bitcotapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
